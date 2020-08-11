@@ -1,6 +1,6 @@
 # react-native-qrCode-share
 
-/*install library*/  
+**install library**
 -react-native-qrcode-svg  
 -react-native-share  
 -react-native-svg
